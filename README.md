@@ -13,11 +13,14 @@ In this model, I followed best practices for financial modeling by:
 
 # Financial Modelling
 
--<a href = "https://github.com/AnjaliBanga02/Financial-Modelling/blob/main/Financial%20Modelling.xlsx"> View Financial Modelling File</a>
+<a href = "https://github.com/AnjaliBanga02/Financial-Modelling/blob/main/Financial%20Modelling.xlsx"> View Financial Modelling File</a>
+
 
 ![Screenshot 2024-12-27 130702](https://github.com/user-attachments/assets/195f40ae-7b95-4b80-bf82-c4fbdf1ccb2c)
 
+
 ![Screenshot 2024-12-27 130717](https://github.com/user-attachments/assets/36665559-99f4-414e-bfef-c6c211f432a3)
+
 
 ![Screenshot 2024-12-27 130755](https://github.com/user-attachments/assets/88c42593-b114-4285-b169-ddf6ade3b875)
 
